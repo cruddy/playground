@@ -553,12 +553,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/cruddy/cruddy.git",
-                "reference": "45d40201d0ec88bdff2dc93afbe384254f058d68"
+                "reference": "85bc96e90bfe7bdee6f4ee4628b3342174ee4f7f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cruddy/cruddy/zipball/45d40201d0ec88bdff2dc93afbe384254f058d68",
-                "reference": "45d40201d0ec88bdff2dc93afbe384254f058d68",
+                "url": "https://api.github.com/repos/cruddy/cruddy/zipball/85bc96e90bfe7bdee6f4ee4628b3342174ee4f7f",
+                "reference": "85bc96e90bfe7bdee6f4ee4628b3342174ee4f7f",
                 "shasum": ""
             },
             "require": {
@@ -602,7 +602,7 @@
                 "eloquent",
                 "laravel"
             ],
-            "time": "2015-02-22 09:11:51"
+            "time": "2015-02-23 07:54:41"
         },
         {
             "name": "kalnoy/illuminate-menu",

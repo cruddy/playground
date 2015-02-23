@@ -12,3 +12,8 @@
     cd htdocs
     php artisan down
 @endtask
+
+@task('vendor:publish')
+    cd htdocs
+    php artisan vendor:publish
+@endtask
