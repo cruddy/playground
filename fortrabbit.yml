@@ -1,0 +1,15 @@
+---
+
+version: 1
+
+strategy: fullsync
+
+excludes:
+    - storage
+    - public/cruddy
+    - public/files
+    - vendor
+
+composer:
+    mode: trigger
+    method: install
