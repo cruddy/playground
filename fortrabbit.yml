@@ -9,6 +9,7 @@ excludes:
     - public/cruddy
     - public/files
     - vendor
+    - .env
 
 composer:
     mode: trigger
